@@ -1,7 +1,7 @@
 # 🍽️ Recipe API
 
 API para cadastro, busca e edição de receitas, com controle de proprietário.
-API for create, seach and edition of food recipes, with owner control
+API for create, search and edit food recipes, with owner control
 
 ## 🚀 Funcionalidades - Functions
 
